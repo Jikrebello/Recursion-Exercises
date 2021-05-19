@@ -1,0 +1,10 @@
+E:\Visual Studio Projects\C# Intermediate Programming\Recursion Exercises\bin\Debug\Recursion Exercises.exe.config
+E:\Visual Studio Projects\C# Intermediate Programming\Recursion Exercises\bin\Debug\Recursion Exercises.exe
+E:\Visual Studio Projects\C# Intermediate Programming\Recursion Exercises\bin\Debug\Recursion Exercises.pdb
+E:\Visual Studio Projects\C# Intermediate Programming\Recursion Exercises\obj\Debug\Recursion Exercises.csprojAssemblyReference.cache
+E:\Visual Studio Projects\C# Intermediate Programming\Recursion Exercises\obj\Debug\Recursion_Exercises.Form1.resources
+E:\Visual Studio Projects\C# Intermediate Programming\Recursion Exercises\obj\Debug\Recursion_Exercises.Properties.Resources.resources
+E:\Visual Studio Projects\C# Intermediate Programming\Recursion Exercises\obj\Debug\Recursion Exercises.csproj.GenerateResource.cache
+E:\Visual Studio Projects\C# Intermediate Programming\Recursion Exercises\obj\Debug\Recursion Exercises.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\C# Intermediate Programming\Recursion Exercises\obj\Debug\Recursion Exercises.exe
+E:\Visual Studio Projects\C# Intermediate Programming\Recursion Exercises\obj\Debug\Recursion Exercises.pdb
